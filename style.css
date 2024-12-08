@@ -1,0 +1,25 @@
+#form{
+  width:400px;
+  height: 650px;
+  border: solid 4px black;
+  margin:10px 30px 20px 5px;
+  padding: 10px;
+  border-radius: 30px;
+ 
+}
+#one{
+ text-align: center;
+ font-size: 30px;
+ font-weight: solid;
+}
+#two{
+  text-align: center;
+  font-size: 10px;
+  font-weight: solid;
+  background-color: skyblue;
+  word-spacing: 1px;
+}
+
+button{
+  background-color: greenyellow;
+}
